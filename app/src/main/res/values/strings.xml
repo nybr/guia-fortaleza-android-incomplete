@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guia Fortaleza - CE</string>
+
+    <string name="category_museus">Museus</string>
+    <string name="category_interesses">Pontos de Interesse</string>
+    <string name="category_teatros">Teatros</string>
+    <string name="category_noturna">Vida Noturna</string>
+</resources>
